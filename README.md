@@ -11,3 +11,7 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+Modal component created with stitches, this template of Modal can be used in everywhere, was included variants on it, so is can be a side modal from left and right to a center alignment
+
+Really helpfull!
